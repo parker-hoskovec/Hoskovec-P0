@@ -1,0 +1,6 @@
+dev/hoskovec/DAOTests/GetAllClientAccountsTest.java
+ dev.hoskovec.DAOTests.GetAllClientAccountsTest
+dev/hoskovec/DAOTests/BankDAOTest.java
+ dev.hoskovec.DAOTests.BankDAOTest
+dev/hoskovec/servicetests/BankServiceTest.java
+ dev.hoskovec.servicetests.BankServiceTest

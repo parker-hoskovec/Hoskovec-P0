@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.hoskovec.servicetests.BankServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-24T15:42:09" hostname="DESKTOP-01Q12UV" time="4.832">
+  <properties/>
+  <testcase name="create_account_for_client()" classname="dev.hoskovec.servicetests.BankServiceTest" time="1.341"/>
+  <testcase name="get_all_accounts_for_client()" classname="dev.hoskovec.servicetests.BankServiceTest" time="1.555"/>
+  <testcase name="update_account_for_client()" classname="dev.hoskovec.servicetests.BankServiceTest" time="0.804"/>
+  <testcase name="get_account_by_id_for_client()" classname="dev.hoskovec.servicetests.BankServiceTest" time="0.372"/>
+  <testcase name="get_accounts_for_client_by_balance()" classname="dev.hoskovec.servicetests.BankServiceTest" time="0.37"/>
+  <testcase name="delete_account_by_id_for_client()" classname="dev.hoskovec.servicetests.BankServiceTest" time="0.387"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
